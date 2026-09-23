@@ -1,25 +1,31 @@
-<h1 align="center">Sup👋, I'm Luis Fernandes</h1>
-<h3 align="center">A Student</h3>
+# Olá, sou o Luís Fernandes 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luidjidev&label=Profile%20views&color=0e75b6&style=flat" alt="luisfernandes10" /> </p>
+Sou estudante da **Licenciatura em Informática e Gestão de Empresas no ISCTE**, com interesse em desenvolvimento de software, algoritmos, sistemas e desenvolvimento web.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfernandes10" alt="luisfernandes10" /></a> </p>
+## Sobre mim
 
-- 👨‍💻 All of my projects are available at [https://github.com/luidjidev?tab=repositories](https://github.com/luidjidev?tab=repositories)
+- Frequento a licenciatura em Informática e Gestão de Empresas no ISCTE.
+- Concluí o **CS50x — Introduction to Computer Science**, da Universidade de Harvard.
+- Frequentei a **42 Lisboa**, onde desenvolvi projetos em C até ao `so_long`.
+- Tenho desenvolvido projetos académicos em Java, C, Bash, Python e SQL.
+- Procuro continuar a evoluir em desenvolvimento full-stack, bases de dados e engenharia de software.
 
-- 📫 How to reach me **luissantosfernandes2@gmail.com**
+## Tecnologias e conhecimentos
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luidjidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luidjidev" height="30" width="40" /></a>
-<a href="https://instagram.com/tadokiari10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luidjitv" height="30" width="40" /></a>
-</p>
+- **Linguagens:** Java, Python, C, SQL, HTML e CSS
+- **Desenvolvimento web:** Flask, Bootstrap, APIs e SQLite
+- **Ferramentas:** Git, GitHub, Linux, Bash, IntelliJ IDEA e VS Code
+- **Áreas:** programação orientada a objetos, algoritmos e estruturas de dados, sistemas operativos e bases de dados
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## Projetos em destaque
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfernandes10&show_icons=true&locale=en&layout=compact" alt="luisfernandes10" /></p>
+- [AED — Exercícios em Java](https://github.com/luisfernandes10/aed-java-exercises) — estruturas de dados, algoritmos de ordenação, tabelas de símbolos, hashing e árvores binárias de pesquisa.
+- [Introdução à Programação](https://github.com/luisfernandes10/IP25-26) — exercícios progressivos em Java, desde fundamentos até programação orientada a objetos.
+- [Vintage Editor](https://github.com/luisfernandes10/projetoVintageEditor) — editor de imagens em Java com filtros, efeitos, operações geométricas e histórico.
+- [FerrIULandia](https://github.com/luisfernandes10/FerrIULandia-so2026) — projeto de Sistemas Operativos com Bash, C e mecanismos de comunicação entre processos.
+- [Book50](https://github.com/luisfernandes10/Book50-CS50x-Final-Project) — aplicação web em Flask e SQLite para pesquisa e organização de livros.
+- [so_long](https://github.com/luisfernandes10/so_long) — jogo 2D desenvolvido em C com a biblioteca gráfica MiniLibX.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfernandes10&show_icons=true&locale=en" alt="luisfernandes10" /></p>
+## Contacto
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfernandes10&" alt="luisfernandes10" /></p>
+[LinkedIn](https://www.linkedin.com/in/luidjidev/) · [Repositórios](https://github.com/luisfernandes10?tab=repositories)
